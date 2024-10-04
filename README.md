@@ -1,3 +1,5 @@
-Builder + Geek + macOS + iOS. Remote since forever.
+Write software.
 
-Swift + Ruby + TypeScript
+Remote since forever.
+
+Swift (iOS + macOS) + TypeScript + Ruby.
