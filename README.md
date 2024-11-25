@@ -1,4 +1,4 @@
-Write software.
+Write and sell software
 
 Remote since forever.
 
