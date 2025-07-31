@@ -6,7 +6,7 @@ TypeScript + Swift (iOS + macOS) + Ruby.
 
 Projects:
 
-* [Bluesky analytics — TheBlue.social](https://theblue.social), Bluesky analytics, Bluesky+X post scheduling and tools
+* [Bluesky analytics — TheBlue.social](https://theblue.social), Bluesky analytics, Bluesky+X+Threads+Mastodon post scheduling and tools
 * [Video Summarizer — SummarizeVideo.ai](https://summarizevideo.ai), a video summarizer service
 * [Uptime monitor — Ping Now](https://hboon.com/i-made-a-website-service-uptime-monitor/), a website/API/service uptime monitor
 * [macOS tiling window Manager — SimplyWM](https://hboon.com/i-m-making-a-tiling-window-manager/), a macOS tiling window manager
