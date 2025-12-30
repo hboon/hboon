@@ -7,6 +7,7 @@ TypeScript + Swift (iOS + macOS) + Ruby.
 Projects:
 
 * [Social media cross-poster — TheBlue.social](https://theblue.social), X+Threads+Instagram+Pinterest+LinkedIn+Bluesky+Mastodon post scheduling and tools
+* [MyOG.social](https://myog.social), Boost your social media CTR. Automatically generate Open Graph images for your website
 * [Codevetta](https://codevetta.com), One-time architecture & code risk review service
 * [Video Summarizer — SummarizeVideo.ai](https://summarizevideo.ai), a video summarizer service
 * [Uptime monitor — Ping Now](https://hboon.com/i-made-a-website-service-uptime-monitor/), a website/API/service uptime monitor
