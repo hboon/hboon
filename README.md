@@ -6,7 +6,7 @@ TypeScript + Swift (iOS + macOS) + Ruby.
 
 Projects:
 
-* [SaaS Starter Kit — Stacknaut](https://stacknaut.com) - Ship Your SaaS Faster with a starter kit meant to be built on with AI.
+* [Starter Kit to Ship a Profitable SaaS on One Server — Stacknaut](https://stacknaut.com) - Ship Your SaaS Faster with a starter kit meant to be built on with AI.
 * [Bluesky tools — TheBlue.social](https://theblue.social)
 * [Boost your social media CTR. Automatically generate Open Graph images for your website — MyOG.social](https://myog.social)
 * [One-time architecture & code risk review service — Codevetta](https://codevetta.com)
