@@ -10,6 +10,7 @@ Projects:
 * [Bluesky tools — TheBlue.social](https://theblue.social)
 * [Boost your social media CTR. Automatically generate Open Graph images for your website — MyOG.social](https://myog.social)
 * [Chrome extension that gives your coding agent eyes and hands — DevSnoop](https://devsnoop.com)
+* [Search Hacker News "Who is hiring?" posts — Get HN Jobs](https://gethnjobs.com)
 * [Generate alt text for images — AltCaption](https://altcaption.com)
 * [One-time architecture & code risk review service — Codevetta](https://codevetta.com)
 * [Convert times to local time — ToLocalTime](https://tolocaltime.com)
