@@ -14,6 +14,9 @@ Projects:
 * [Generate alt text for images — AltCaption](https://altcaption.com)
 * [One-time architecture & code risk review service — Codevetta](https://codevetta.com)
 * [Convert times to local time — ToLocalTime](https://tolocaltime.com)
+* [Free QR code tools for local businesses — LocalQRCode](https://localqrcode.com)
+* [Open house QR check-in for real estate agents — OpenhouseCheckin](https://openhousecheckin.com)
+* [Classroom seating chart maker — SeatPlanMaker](https://seatplanmaker.com)
 * [Video Summarizer — SummarizeVideo.ai](https://summarizevideo.ai), a video summarizer service
 * [Uptime monitor — Ping Now](https://hboon.com/i-made-a-website-service-uptime-monitor/), a website/API/service uptime monitor
 * [macOS tiling window Manager — SimplyWM](https://hboon.com/i-m-making-a-tiling-window-manager/), a macOS tiling window manager
